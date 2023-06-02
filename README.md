@@ -11,4 +11,5 @@ In this tutorial, you'll learn how to:
 - Renaming Columns and Rows
 - Loading a dataframe
 
+Visit the [Blog](https://medium.com/@siddharthgov01/ultimate-pandas-guide-module-1-910edf54935).
 By the end of this tutorial, you'll have a solid understanding of Pandas and be able to use it for your own data analysis tasks. So why wait? Let's dive in and start learning!
